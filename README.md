@@ -55,4 +55,3 @@ Ce notebook présente un projet d'analyse de données utilisant des données de 
 - Intégrer des techniques de prétraitement des données pour améliorer la qualité des entrées du modèle.
 
 ---
-**Note :** Assurez-vous d'avoir les autorisations appropriées pour utiliser les données téléchargées à partir des liens fournis dans le notebook.
